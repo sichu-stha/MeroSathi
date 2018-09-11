@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">मेरो साथी</string>
+    <string name="ma">म</string>
+    <string name="timi">तिमी</string>
+    <string name="hami">हामी</string>
+    <string name="open">खोल</string>
+    <string name="close">बन्द </string>
+    <string name="home">मुख्य पृष्ट </string>
+    <string name="request">नयाँ बटनको लागि आग्रह</string>
+    <string name="about"> जानकारी </string>
+</resources>

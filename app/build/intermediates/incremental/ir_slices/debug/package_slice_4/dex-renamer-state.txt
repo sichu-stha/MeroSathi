@@ -1,0 +1,4 @@
+#Tue Aug 07 14:54:23 NPT 2018
+base.0=C\:\\Users\\sichu\\AndroidStudioProjects\\MeroSathi\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\20
+path.0=classes.dex
+renamed.0=classes.dex
